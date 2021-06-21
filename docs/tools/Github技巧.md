@@ -6,7 +6,7 @@
 
 ## 1. 一键生成 Github 简历
 
-通过 [http://resume.github.io/](http://resume.github.io/) 这个网站你可以一键生成一个在线的 Github 简历。
+通过 [https://resume.github.io/](https://resume.github.io/) 这个网站你可以一键生成一个在线的 Github 简历。
 
 当时我参加的校招的时候，个人信息那里就放了一个在线的 Github 简历。我觉得这样会让面试官感觉你是一个内行，会提高一些印象分。
 
@@ -18,17 +18,17 @@
 
 Github 目前支持在个人主页自定义展示一些内容。展示效果如下图所示。
 
-![个性化首页展示效果](https://guide-blog-images.oss-cn-shenzhen.aliyuncs.com/2020-11/1.png)
+![个性化首页展示效果](/Users/guide/Library/Application Support/typora-user-images/image-20210616221212259.png)
 
 想要做到这样非常简单，你只需要创建一个和你的 Github 账户同名的仓库，然后自定义`README.md`的内容即可。
 
 展示在你主页的自定义内容就是`README.md`的内容（_不会 Markdown 语法的小伙伴自行面壁 5 分钟_）。
 
-![创建一个和你的Github账户同名的仓库](https://guide-blog-images.oss-cn-shenzhen.aliyuncs.com/2020-11/image-20201107110309341.png)
+![创建一个和你的Github账户同名的仓库](https://guide-blog-images.oss-cn-shenzhen.aliyuncs.com/java-guide-blog/image-20201107110309341.png)
 
 这个也是可以玩出花来的！比如说：通过 [github-readme-stats](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/anuraghazra/github-readme-stats) 这个开源项目，你可以 README 中展示动态生成的 GitHub 统计信息。展示效果如下图所示。
 
-![通过github-readme-stats动态生成GitHub统计信息 ](https://guide-blog-images.oss-cn-shenzhen.aliyuncs.com/2020-11/2.png)
+![通过github-readme-stats动态生成GitHub统计信息 ](https://guide-blog-images.oss-cn-shenzhen.aliyuncs.com/java-guide-blog/image-20210616221312426.png)
 
 关于个性化首页这个就不多提了，感兴趣的小伙伴自行研究一下。
 
@@ -90,19 +90,13 @@ Github 前段时间推出的 Codespaces 可以提供类似 VS Code 的在线 IDE
 
 这个网站会提供一个类似 VS Code 的在线 IDE。
 
-## 6. 一键开启 Github 夜间模式
-
-通过 **GitHub Dark Theme** 这个 Chrome 插件你可以将 Github 的主题变为夜间样式。
-
-![](https://guide-blog-images.oss-cn-shenzhen.aliyuncs.com/2020-11/image-20201107160240274.png)
-
-## 7. 扩展 Github 的功能
+## 6. 扩展 Github 的功能
 
 **Enhanced GitHub** 可以让你的 Github 更好用。这个 Chrome 插件可以可视化你的 Github 仓库大小，每个文件的大小并且可以让你快速下载单个文件。
 
 ![](https://guide-blog-images.oss-cn-shenzhen.aliyuncs.com/2020-11/image-20201107160817672.png)
 
-## 8. 自动为 Markdown 文件生成目录
+## 7. 自动为 Markdown 文件生成目录
 
 如果你想为 Github 上的 Markdown 文件生成目录的话，通过 VS Code 的 **Markdown Preview Enhanced** 这个插件就可以了。
 
@@ -110,7 +104,7 @@ Github 前段时间推出的 Codespaces 可以提供类似 VS Code 的在线 IDE
 
 ![](<https://guide-blog-images.oss-cn-shenzhen.aliyuncs.com/2020-11/iShot2020-11-07%2016.14.14%20(1).png>)
 
-## 9. 后记
+## 8. 后记
 
 这篇文章是我上周六的时候坐在窗台写的，花了一下午时间。
 
